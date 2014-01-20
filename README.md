@@ -1,9 +1,4 @@
-util-modules
-============
-
-# Miscellaneous utilities in Python.
-
-## Linked List
+# Linked List
     This is a Linux style linked list implementation. In fact, it is copied from
     Linux kernel's include/linux/list.h. For Linux kernel people, this will
     feel right at home. This performs much better than Python's built-in list

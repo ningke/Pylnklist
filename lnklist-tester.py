@@ -138,37 +138,37 @@ if __name__ == "__main__":
 
 
 #########################################################################
-# Results on my laptop (Intel Core2 Duo CPU T6500 @ 2.10GHz, 3GB RAM
+# Results on my laptop (Intel Core2 Duo CPU T6500 @ 2.10GHz, 3GB RAM)
 #
-# me@mylaptop:~/path/util-modules$ python lnklist-tester.py 1000
+# me@mylaptop:~/path$ python lnklist-tester.py 1000
 #    Number of Rounds: 1000
 #    Linked List Profile result:
 #    Create 0.000000 Walk 0.000000 DelHead 0.010000 RandOp 0.400000
 #    Python List Profile result:
 #    Create 0.000000 Walk 0.000000 DelHead 0.000000 RandOp 0.290000
 #
-# me@mylaptop:~/path/util-modules $ python lnklist-tester.py 10000
+# me@mylaptop:~/path $ python lnklist-tester.py 10000
 #    Number of Rounds: 10000
 #    Linked List Profile result:
 #    Create 0.050000 Walk 0.000000 DelHead 0.020000 RandOp 0.500000
 #    Python List Profile result:
 #    Create 0.040000 Walk 0.000000 DelHead 0.030000 RandOp 0.610000
 #
-# me@mylaptop:~/path/util-modules$ python lnklist-tester.py 50000
+# me@mylaptop:~/path$ python lnklist-tester.py 50000
 #    Number of Rounds: 50000
 #    Linked List Profile result:
 #    Create 0.300000 Walk 0.010000 DelHead 0.090000 RandOp 0.540000
 #    Python List Profile result:
 #    Create 0.430000 Walk 0.000000 DelHead 0.880000 RandOp 1.780000
 #
-# me@mylaptop:~/path/util-modules$ python lnklist-tester.py 100000
+# me@mylaptop:~/path$ python lnklist-tester.py 100000
 #    Number of Rounds: 100000
 #    Linked List Profile result:
 #    Create 0.740000 Walk 0.030000 DelHead 0.190000 RandOp 0.530000
 #    Python List Profile result:
 #    Create 0.980000 Walk 0.010000 DelHead 3.240000 RandOp 3.540000
 #
-# me@mylaptop:~/path/util-modules$ python lnklist-tester.py 500000
+# me@mylaptop:~/path$ python lnklist-tester.py 500000
 #    Number of Rounds: 500000
 #    Linked List Profile result:
 #    Create 5.270000 Walk 0.170000 DelHead 0.930000 RandOp 0.520000
